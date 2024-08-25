@@ -1,4 +1,4 @@
-# SafeSquid_Labs_Task
+# SafeSquid_Labs_Task-1
 For Task-1 (Monitoring System Resources for a Proxy Server)
 
 ## Prerequisites
